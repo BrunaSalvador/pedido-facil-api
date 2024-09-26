@@ -1,0 +1,5 @@
+{
+  "image": "ghcr.io/cirolosapio/devcontainers-features/alpine-node:0",
+  "features": {
+  }
+}
